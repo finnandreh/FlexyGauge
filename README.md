@@ -1,7 +1,7 @@
 
-# FlexiGauge
+# FlexyGauge
 
-**FlexiGauge** is a Python script for generating customizable polar gauges, allowing you to adjust various parameters to fit your data visualization needs.
+**FlexyGauge** is a Python script for generating customizable polar gauges, allowing you to adjust various parameters to fit your data visualization needs.
 
 ## Features
 
@@ -22,7 +22,7 @@ pip install matplotlib
 Use the `create_gauge` function with your desired parameters to create a gauge:
 
 ```python
-from flexigauge import create_gauge
+from flexygauge import create_gauge
 
 create_gauge(
     start_angle=270,    # Start of the gauge at 270 degrees
